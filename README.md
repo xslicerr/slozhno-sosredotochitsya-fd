@@ -1,1 +1,1 @@
-https://github.com/xslicerr/posmotri-v-okno-fd.git
+https://github.com/xslicerr/slozhno-sosredotochitsya-fd.git
