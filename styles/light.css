@@ -48,7 +48,7 @@
     --font-weight-bold: 700;
   }
 
-  :root .decorated_element {
+  :root:not(.theme-dark) .decorated_element {
     display: none;
   }
 }
