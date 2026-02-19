@@ -13,6 +13,7 @@
   --accent-color: #ff8dcb;
   --color-title: #ffc2e6;
   --color-bg: #fff1f7;
+  --color-section-title: #353430;
   --color-on-accent: #353430;
   --color-text-main: #353430;
   --color-outline: #f1b2ce;
@@ -20,9 +21,6 @@
   --color-button-hover: rgb(50 49 45 / 0.4);
   --color-focus: #353430;
   --color-decoration: #353430;
-
-  --font-weight-normal: 400;
-  --font-weight-bold: 700;
 }
 
 :root.theme-light .decorated_element {
@@ -36,6 +34,7 @@
     --accent-color: #ff8dcb;
     --color-title: #ffc2e6;
     --color-bg: #fff1f7;
+    --color-section-title: #353430;
     --color-on-accent: #353430;
     --color-text-main: #353430;
     --color-outline: #f1b2ce;
@@ -43,9 +42,6 @@
     --color-button-hover: rgb(50 49 45 / 0.4);
     --color-focus: #353430;
     --color-decoration: #353430;
-
-    --font-weight-normal: 400;
-    --font-weight-bold: 700;
   }
 
   :root:not(.theme-dark) .decorated_element {
